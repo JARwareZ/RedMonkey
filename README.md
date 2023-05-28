@@ -6,7 +6,7 @@
 ## Contributor
 
 [![Rafael González](https://img.shields.io/badge/-@loboguardian-gray?style=for-the-badge&logoColor=white&labelColor=101010&logo=github)](https://github.com/loboguardian)
-[![Julio Ferrero](https://img.shields.io/badge/-Julio Ferrero-gray?style=for-the-badge&logoColor=white&labelColor=101010)]
+![Julio Ferrero](https://img.shields.io/badge/-Julio%20Ferrero-gray?style=for-the-badge&logoColor=white&labelColor=101010)
 
 
 ## License
